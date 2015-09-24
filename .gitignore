@@ -1,0 +1,12 @@
+webapp/perl/local/*
+webapp/node/node_modules/*
+.bash*
+.npm/*
+.cache/*
+.cpanm/*
+.gem/*
+.local/*
+.xbuild/*
+gocode/*
+.viminfo
+.xbuild
