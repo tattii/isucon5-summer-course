@@ -10,3 +10,4 @@ webapp/node/node_modules/*
 gocode/*
 .viminfo
 .xbuild
+.ssh/*
